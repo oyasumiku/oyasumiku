@@ -1,5 +1,5 @@
-- hii, i am @oyasumiku
-- pronouns: they/them
-- i like game programming and data structures
-- my arms are very dead from rock climbing
-- we love hatsune miku
+- 👋 Hi there, this is the GitHub for @oyasumiku.
+- ✨ Pronouns: they/them
+- 🎮 My favorite programming topics are game development and databases.
+- 💻 I am working on getting a bachelor's degree in Computer Science.
+- 🎼 In my free time, I enjoy singing and listening to musical theater.
